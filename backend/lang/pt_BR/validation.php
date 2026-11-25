@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'required' => 'O campo :attribute é obrigatório.',
+    'required_if' => 'O campo :attribute é obrigatório nesta operação.',
+    'string' => 'O campo :attribute deve ser texto.',
+    'email' => 'Informe um e-mail válido.',
+    'unique' => 'Este :attribute já está cadastrado.',
+    'confirmed' => 'A confirmação de :attribute não coincide.',
+    'current_password' => 'A senha atual está incorreta.',
+    'integer' => 'O campo :attribute deve ser um número inteiro.',
+    'boolean' => 'O campo :attribute deve ser verdadeiro ou falso.',
+    'array' => 'O campo :attribute deve ser uma lista.',
+    'distinct' => 'A lista de :attribute contém valores repetidos.',
+    'exists' => 'O valor selecionado para :attribute não existe.',
+    'in' => 'O valor de :attribute é inválido.',
+    'digits' => 'O campo :attribute deve ter :digits dígitos.',
+    'digits_between' => 'O campo :attribute deve ter entre :min e :max dígitos.',
+    'date_format' => 'Use o formato :format no campo :attribute.',
+    'after_or_equal' => 'O campo :attribute deve ser igual ou posterior a :date.',
+    'file' => 'O campo :attribute deve conter um arquivo.',
+    'image' => 'Envie uma imagem válida.',
+    'mimes' => 'O arquivo deve ser do tipo :values.',
+    'min' => ['string' => ':attribute deve ter pelo menos :min caracteres.', 'numeric' => ':attribute deve ser no mínimo :min.', 'array' => 'Selecione pelo menos :min item.'],
+    'max' => ['string' => ':attribute aceita até :max caracteres.', 'numeric' => ':attribute deve ser no máximo :max.', 'array' => 'Selecione até :max itens.', 'file' => 'O arquivo aceita até :max KB.'],
+    'between' => ['numeric' => ':attribute deve estar entre :min e :max.'],
+    'attributes' => ['name' => 'nome', 'password' => 'senha', 'phone' => 'telefone', 'score' => 'nota', 'comment' => 'comentário', 'title' => 'título', 'numbers' => 'números', 'document' => 'documento', 'reason' => 'justificativa', 'starts' => 'data inicial', 'ends' => 'data final'],
+];

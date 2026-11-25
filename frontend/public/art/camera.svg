@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="390" viewBox="0 0 760 390" role="img" aria-labelledby="title">
+<title id="title">Câmera fotográfica analógica em gravura azul</title>
+<defs>
+  <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.3" fill="#242c3c" opacity=".22"/></pattern>
+  <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(34)"><path d="M1 0v7" stroke="#242c3c" stroke-width="1.1" opacity=".36"/></pattern>
+</defs>
+<rect width="760" height="390" fill="#a4b8d7"/>
+<path d="M-20 365 348 0H208L-20 230Z" fill="#d5d7ea" opacity=".38"/>
+<circle cx="484" cy="189" r="154" fill="#d5d7ea"/>
+<path d="M548 390 760 182v208Z" fill="url(#dots)"/>
+<g stroke="#242c3c" stroke-width="1" fill="none" opacity=".45"><path d="M24 32h23m-12-11v23m678 312h23m-12-12v24"/><path d="M602 37h118m-76 6h76m-49 6h49"/></g>
+<ellipse cx="397" cy="329" rx="225" ry="13" fill="#242c3c" opacity=".11"/>
+<g stroke="#242c3c" stroke-linejoin="round" stroke-linecap="round"><g transform="rotate(-8 386 213)">
+<path d="m228 134 32-15h261l30 18v137l-28 22H236l-15-15V150Z" fill="#374759" stroke-width="5"/>
+<path d="m240 129 29-13h248l25 16-28 14H237Z" fill="#e3c9a1" stroke-width="4"/>
+<path d="m240 142 282 0v153H238q-12-1-12-13V153q1-10 14-11Z" fill="#ddcfba" stroke-width="4"/>
+<rect x="227" y="177" width="295" height="102" fill="#526175" stroke-width="3"/><rect x="230" y="180" width="289" height="96" fill="url(#dots)" stroke="none"/>
+<path d="m522 144 28-12v139l-28 22Z" fill="url(#hatch)" stroke-width="3"/>
+<path d="M321 143 340 113l13-18h54l28 45v20h-114Z" fill="#e1d3bd" stroke-width="4"/>
+<path d="m340 114 15-19h51l13 24h-69Z" fill="#a0968f" stroke-width="2"/>
+<path d="M252 123v-10l4-5h31l4 4v12Z" fill="#35404c" stroke-width="3"/>
+<path d="M453 122v-12h27v12Z" fill="#b3a48f" stroke-width="3"/>
+<rect x="247" y="150" width="32" height="16" rx="3" fill="#6a788c" stroke-width="2"/>
+<circle cx="489" cy="159" r="5" fill="#dc7052" stroke-width="1.5"/>
+<circle cx="386" cy="224" r="64" fill="#292f39" stroke-width="5"/><circle cx="380" cy="229" r="59" fill="url(#hatch)" stroke-width="3"/>
+<circle cx="375" cy="231" r="52" fill="#4b586a" stroke-width="4"/><circle cx="375" cy="231" r="44" fill="#9d9794" stroke-width="3"/>
+<circle cx="375" cy="231" r="35" fill="#2c3d50" stroke-width="4"/><circle cx="375" cy="231" r="26" fill="#364b61" stroke-width="2"/>
+<path d="m370 208 17 4 11 15-10 18-18 7-16-12 1-17Z" fill="#1e2e42" stroke="#73849b" stroke-width="1.5"/><ellipse cx="365" cy="218" rx="8" ry="5" fill="#b9cad5" stroke="none"/>
+<path d="M244 286h45m170 0h49m-274-103v80" stroke="#ece0c7" stroke-width="2"/>
+</g></g>
+</svg>

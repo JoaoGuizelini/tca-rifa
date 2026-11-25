@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="390" viewBox="0 0 760 390" role="img" aria-labelledby="title">
+<title id="title">Fones de ouvido circum-aurais em gravura coral</title>
+<defs>
+  <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.3" fill="#342b30" opacity=".22"/></pattern>
+  <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(34)"><path d="M1 0v7" stroke="#342b30" stroke-width="1.1" opacity=".36"/></pattern>
+</defs>
+<rect width="760" height="390" fill="#efa18d"/>
+<path d="M-20 365 348 0H208L-20 230Z" fill="#ffd4a4" opacity=".38"/>
+<circle cx="484" cy="189" r="154" fill="#ffd4a4"/>
+<path d="M548 390 760 182v208Z" fill="url(#dots)"/>
+<g stroke="#342b30" stroke-width="1" fill="none" opacity=".45"><path d="M24 32h23m-12-11v23m678 312h23m-12-12v24"/><path d="M602 37h118m-76 6h76m-49 6h49"/></g>
+<ellipse cx="397" cy="329" rx="225" ry="13" fill="#342b30" opacity=".11"/>
+<g stroke="#342b30" stroke-linejoin="round" stroke-linecap="round"><g transform="rotate(12 382 206)">
+<path d="M264 226v-47c0-74 50-129 120-129s124 54 124 132v52l-20 2v-54c0-68-42-110-104-110s-103 45-103 109v47Z" fill="#344049" stroke-width="5"/>
+<path d="M269 185c0-76 45-128 117-128 50 0 88 26 106 73" fill="none" stroke="#ffdcac" stroke-width="2"/>
+<path d="M281 169c3-62 47-100 102-100 50 0 94 29 104 90l-10 5c-13-52-48-80-94-80-44 0-80 29-91 84Z" fill="#615665" stroke-width="3"/>
+<path d="m270 179-4 56q-4 25 26 34l12-12-13-7q-15-3-14-18l4-51Z" fill="#d1bcb5" stroke-width="4"/>
+<path d="m499 176 5 51q4 25-23 34l-11-10 13-8q11-3 10-17l-5-48Z" fill="#d1bcb5" stroke-width="4"/>
+<g transform="rotate(-9 299 255)"><rect x="280" y="207" width="54" height="111" rx="25" fill="#292e37" stroke-width="5"/><rect x="271" y="205" width="50" height="110" rx="24" fill="#9b8aaa" stroke-width="4"/><rect x="277" y="210" width="37" height="97" rx="19" fill="url(#hatch)" stroke-width="1.5"/><path d="M284 222q8-10 19-6" fill="none" stroke="#fae8c5" stroke-width="3"/></g>
+<g transform="rotate(8 465 257)"><rect x="434" y="201" width="59" height="119" rx="26" fill="#303741" stroke-width="5"/><rect x="454" y="196" width="56" height="119" rx="27" fill="#aa95b9" stroke-width="4"/><rect x="462" y="203" width="40" height="103" rx="20" fill="url(#hatch)" stroke-width="1.5"/><path d="M469 215q12-14 23-7" fill="none" stroke="#fae8c5" stroke-width="3"/><circle cx="483" cy="254" r="7" fill="#cebdc4" stroke-width="2"/></g>
+</g></g>
+</svg>
